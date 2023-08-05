@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="jeffinsane.png">
+<SubTexture name="down0000" x="1894" y="1709" width="769" height="706" frameX="-23" frameY="-74" frameWidth="864" frameHeight="804" />
+<SubTexture name="down0001" x="1125" y="1709" width="769" height="726" frameX="-23" frameY="-53" frameWidth="864" frameHeight="804" />
+<SubTexture name="idle0000" x="736" y="894" width="736" height="805" frameX="-32" frameY="-64" frameWidth="833" frameHeight="889" />
+<SubTexture name="idle0001" x="2175" y="805" width="736" height="795" frameX="-32" frameY="-74" frameWidth="833" frameHeight="889" />
+<SubTexture name="idle0002" x="0" y="894" width="736" height="815" frameX="-31" frameY="-54" frameWidth="833" frameHeight="889" />
+<SubTexture name="idle0003" x="1433" y="0" width="742" height="823" frameX="-32" frameY="-45" frameWidth="833" frameHeight="889" />
+<SubTexture name="left0000" x="0" y="2503" width="1019" height="683" frameX="-12" frameY="-35" frameWidth="1107" frameHeight="737" />
+<SubTexture name="left0001" x="1019" y="2503" width="974" height="683" frameX="-76" frameY="-35" frameWidth="1107" frameHeight="737" />
+<SubTexture name="right0000" x="0" y="1709" width="1125" height="794" frameX="-18" frameY="-40" frameWidth="1177" frameHeight="865" />
+<SubTexture name="right0001" x="2175" y="0" width="1059" height="805" frameX="-11" frameY="-29" frameWidth="1177" frameHeight="865" />
+<SubTexture name="up0000" x="0" y="0" width="727" height="894" frameX="-26" frameY="-48" frameWidth="806" frameHeight="966" />
+<SubTexture name="up0001" x="727" y="0" width="706" height="866" frameX="-25" frameY="-76" frameWidth="806" frameHeight="966" />
+</TextureAtlas>

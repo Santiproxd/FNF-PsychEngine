@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Trep_bf.png">
+<SubTexture name="BF_down0000" x="0" y="0" width="372" height="375" frameX="-8" frameY="-48" frameWidth="395" frameHeight="426" />
+<SubTexture name="BF_down0001" x="0" y="0" width="372" height="375" frameX="-8" frameY="-48" frameWidth="395" frameHeight="426" />
+<SubTexture name="BF_down0002" x="372" y="0" width="372" height="388" frameX="-14" frameY="-35" frameWidth="395" frameHeight="426" />
+<SubTexture name="BF_idle0000" x="744" y="0" width="390" height="410" frameX="-17" frameY="-54" frameWidth="424" frameHeight="467" />
+<SubTexture name="BF_idle0001" x="744" y="0" width="390" height="410" frameX="-17" frameY="-54" frameWidth="424" frameHeight="467" />
+<SubTexture name="BF_idle0002" x="0" y="410" width="386" height="420" frameX="-26" frameY="-44" frameWidth="424" frameHeight="467" />
+<SubTexture name="BF_idle0003" x="0" y="410" width="386" height="420" frameX="-26" frameY="-44" frameWidth="424" frameHeight="467" />
+<SubTexture name="BF_idle0004" x="386" y="410" width="383" height="427" frameX="-32" frameY="-37" frameWidth="424" frameHeight="467" />
+<SubTexture name="BF_idle0005" x="386" y="410" width="383" height="427" frameX="-32" frameY="-37" frameWidth="424" frameHeight="467" />
+<SubTexture name="BF_idle0006" x="769" y="410" width="379" height="434" frameX="-37" frameY="-30" frameWidth="424" frameHeight="467" />
+<SubTexture name="BF_idle0007" x="769" y="410" width="379" height="434" frameX="-37" frameY="-30" frameWidth="424" frameHeight="467" />
+<SubTexture name="BF_left0000" x="0" y="844" width="365" height="425" frameX="-15" frameY="-24" frameWidth="392" frameHeight="452" />
+<SubTexture name="BF_left0001" x="0" y="844" width="365" height="425" frameX="-15" frameY="-24" frameWidth="392" frameHeight="452" />
+<SubTexture name="BF_left0002" x="365" y="844" width="366" height="420" frameX="-20" frameY="-29" frameWidth="392" frameHeight="452" />
+<SubTexture name="BF_right0000" x="731" y="844" width="398" height="412" frameX="-9" frameY="-32" frameWidth="415" frameHeight="447" />
+<SubTexture name="BF_right0001" x="731" y="844" width="398" height="412" frameX="-9" frameY="-32" frameWidth="415" frameHeight="447" />
+<SubTexture name="BF_right0002" x="0" y="1269" width="397" height="415" frameX="-7" frameY="-29" frameWidth="415" frameHeight="447" />
+<SubTexture name="BF_up0000" x="397" y="1269" width="371" height="447" frameX="-26" frameY="-36" frameWidth="407" frameHeight="486" />
+<SubTexture name="BF_up0001" x="397" y="1269" width="371" height="447" frameX="-26" frameY="-36" frameWidth="407" frameHeight="486" />
+<SubTexture name="BF_up0002" x="768" y="1269" width="377" height="438" frameX="-19" frameY="-45" frameWidth="407" frameHeight="486" />
+</TextureAtlas>

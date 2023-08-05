@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="MaskedJeff.png">
+<SubTexture name="MaskJeff_down0000" x="0" y="0" width="648" height="786" frameX="-101" frameY="-30" frameWidth="770" frameHeight="836" />
+<SubTexture name="MaskJeff_down0001" x="648" y="0" width="665" height="780" frameX="-94" frameY="-36" frameWidth="770" frameHeight="836" />
+<SubTexture name="MaskJeff_idle0000" x="0" y="928" width="697" height="927" frameX="-43" frameY="-38" frameWidth="762" frameHeight="987" />
+<SubTexture name="MaskJeff_idle0001" x="1313" y="0" width="670" height="928" frameX="-65" frameY="-37" frameWidth="762" frameHeight="987" />
+<SubTexture name="MaskJeff_idle0002" x="697" y="928" width="657" height="930" frameX="-79" frameY="-35" frameWidth="762" frameHeight="987" />
+<SubTexture name="MaskJeff_idle0003" x="1354" y="928" width="650" height="934" frameX="-84" frameY="-31" frameWidth="762" frameHeight="987" />
+<SubTexture name="MaskJeff_left0000" x="0" y="1862" width="813" height="739" frameX="-49" frameY="-25" frameWidth="893" frameHeight="774" />
+<SubTexture name="MaskJeff_left0001" x="813" y="1862" width="833" height="737" frameX="-27" frameY="-27" frameWidth="893" frameHeight="774" />
+<SubTexture name="MaskJeff_right0000" x="1646" y="1862" width="793" height="835" frameX="-10" frameY="-36" frameWidth="826" frameHeight="906" />
+<SubTexture name="MaskJeff_right0001" x="0" y="2697" width="800" height="838" frameX="-8" frameY="-33" frameWidth="826" frameHeight="906" />
+<SubTexture name="MaskJeff_up0000" x="800" y="2697" width="715" height="1005" frameX="-10" frameY="-32" frameWidth="745" frameHeight="1061" />
+<SubTexture name="MaskJeff_up0001" x="1515" y="2697" width="642" height="1014" frameX="-57" frameY="-23" frameWidth="745" frameHeight="1061" />
+</TextureAtlas>

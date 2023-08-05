@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Trep_bfBLOOD.png">
+<SubTexture name="BF_down0000" x="403" y="875" width="377" height="376" frameX="-18" frameY="-28" frameWidth="418" frameHeight="430" />
+<SubTexture name="BF_down0001" x="1131" y="416" width="377" height="389" frameX="-24" frameY="-15" frameWidth="418" frameHeight="430" />
+<SubTexture name="BF_left0000" x="381" y="448" width="367" height="422" frameX="-13" frameY="-12" frameWidth="413" frameHeight="462" />
+<SubTexture name="BF_left0001" x="748" y="448" width="372" height="420" frameX="-28" frameY="-14" frameWidth="413" frameHeight="462" />
+<SubTexture name="BF_right0000" x="0" y="875" width="403" height="413" frameX="-18" frameY="-17" frameWidth="436" frameHeight="458" />
+<SubTexture name="BF_right0001" x="1131" y="0" width="401" height="416" frameX="-17" frameY="-14" frameWidth="436" frameHeight="458" />
+<SubTexture name="BF_scared0000" x="751" y="0" width="380" height="427" frameX="-26" frameY="-11" frameWidth="416" frameHeight="466" />
+<SubTexture name="BF_scared0001" x="0" y="448" width="381" height="427" frameX="-24" frameY="-11" frameWidth="416" frameHeight="466" />
+<SubTexture name="BF_scared0002" x="751" y="0" width="380" height="427" frameX="-26" frameY="-11" frameWidth="416" frameHeight="466" />
+<SubTexture name="BF_scared0003" x="0" y="448" width="381" height="427" frameX="-24" frameY="-11" frameWidth="416" frameHeight="466" />
+<SubTexture name="BF_up0000" x="0" y="0" width="373" height="448" frameX="-25" frameY="-8" frameWidth="407" frameHeight="485" />
+<SubTexture name="BF_up0001" x="373" y="0" width="378" height="440" frameX="-19" frameY="-16" frameWidth="407" frameHeight="485" />
+</TextureAtlas>
