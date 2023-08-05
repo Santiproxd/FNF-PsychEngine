@@ -1,0 +1,50 @@
+{
+	"storyName": "Go To Sleep",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"forest",
+		"Jeff",
+		"flesh"
+	],
+	"songs": [
+		[
+			"SDAMOS",
+			"Jeff",
+			[
+				186,
+				33,
+				53
+			]
+		],
+		[
+			"Sleeping tragedies",
+			"Jeff",
+			[
+				186,
+				33,
+				53
+			]
+		],
+		[
+			"Endless Sleep",
+			"Jeff",
+			[
+				186,
+				33,
+				53
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Go To Sleep",
+	"hiddenUntilUnlocked": false
+}

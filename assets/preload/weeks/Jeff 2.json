@@ -1,0 +1,32 @@
+{
+	"storyName": "Go To Sleep",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "Jeff 1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Static",
+			"Jeff",
+			[
+				186,
+				33,
+				53
+			]
+		]
+	],
+	"weekCharacters": [
+		"forest",
+		"Jeff",
+		"flesh"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Go To Sleep"
+}
