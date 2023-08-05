@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ambience.png">
+<SubTexture name="ambience0000" x="0" y="0" width="1538" height="731" frameX="-2" frameY="-21" frameWidth="1545" frameHeight="773" />
+</TextureAtlas>
