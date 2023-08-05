@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				50,
+				219
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "Gameover confirm"
+		},
+		{
+			"offsets": [
+				622,
+				17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "Jeff Gameover anim"
+		},
+		{
+			"offsets": [
+				-112,
+				68
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "Gameover Loop"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jeffdeath",
+	"position": [
+		-50,
+		0
+	],
+	"healthicon": "trep bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		65,
+		105,
+		215
+	],
+	"camera_position": [
+		50,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

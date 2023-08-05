@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-36,
+				25
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "BF_left"
+		},
+		{
+			"offsets": [
+				-34,
+				-8
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "BF_down"
+		},
+		{
+			"offsets": [
+				-61,
+				44
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singUP",
+			"loop": false,
+			"name": "BF_up"
+		},
+		{
+			"offsets": [
+				-69,
+				18
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "BF_right"
+		},
+		{
+			"offsets": [
+				-40,
+				29
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "idle",
+			"loop": true,
+			"name": "BF_scared"
+		},
+		{
+			"offsets": [
+				-40,
+				29
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "scared",
+			"loop": true,
+			"name": "BF_scared"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Trep_bfBLOOD",
+	"position": [
+		0,
+		400
+	],
+	"healthicon": "trep bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		65,
+		105,
+		215
+	],
+	"camera_position": [
+		-20,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,199 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				11
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "BF dies",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				37,
+				5
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "BF Dead Loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				69
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "BF Dead confirm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-16
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "boyfriend dodge",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				24
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-34,
+				9
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-44,
+				-16
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-61,
+				43
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-78,
+				3
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF_right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				4
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BF_missleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-53,
+				-15
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "BF_missdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-61,
+				43
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BF_missup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-49,
+				22
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "BF_Yea",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				23
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "BF_hit",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-79,
+				2
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "BF_missright",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-48,
+				9
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "BF_scared"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Trep_bf_White",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "trep bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		65,
+		105,
+		215
+	],
+	"camera_position": [
+		-20,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
